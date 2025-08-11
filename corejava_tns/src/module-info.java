@@ -4,5 +4,5 @@
 /**
  * 
  */
-module hello_world {
+module corejava_tns {
 }
