@@ -1,4 +1,4 @@
-package corejava_tns;
+package java_basics;
 
 public class datatype_demo {
 
@@ -42,3 +42,4 @@ public class datatype_demo {
 		}
 
 	
+

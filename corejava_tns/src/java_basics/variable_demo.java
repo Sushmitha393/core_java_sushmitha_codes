@@ -1,4 +1,5 @@
-package corejava_tns;
+package java_basics;
+
 
 public class variable_demo {
 
@@ -18,3 +19,4 @@ public class variable_demo {
         System.out.println(message);
     }
 }
+

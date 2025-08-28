@@ -1,4 +1,4 @@
-package corejava_tns;
+package java_basics;
 
 public class typecasting_demo {
 

@@ -1,5 +1,4 @@
-package corejava_tns;
-
+package built_in_packages;
 
 public class built_in_example {
 
