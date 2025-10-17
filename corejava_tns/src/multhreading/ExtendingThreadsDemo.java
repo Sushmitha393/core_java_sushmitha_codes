@@ -1,4 +1,4 @@
-package multithreadingg;
+package multhreading;
 
 class Eclipse extends Thread
 {
