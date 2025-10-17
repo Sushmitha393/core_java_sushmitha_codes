@@ -1,4 +1,4 @@
-package exceptiondemo;
+package exceptiondemoo;
 
 public class MultipleCatchBlockDemo {
 

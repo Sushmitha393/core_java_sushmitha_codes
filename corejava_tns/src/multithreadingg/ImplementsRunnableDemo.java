@@ -1,4 +1,4 @@
-package multhreading;
+package multithreadingg;
 
 class Eclipse1 implements Runnable
 {

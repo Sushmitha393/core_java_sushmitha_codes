@@ -1,4 +1,4 @@
-package exceptiondemo;
+package exceptiondemoo;
 
 import java.io.FileReader;
 import java.io.BufferedReader;
